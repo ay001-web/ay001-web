@@ -1,7 +1,8 @@
 <!-- ================= PIXEL BANNER (NO NAME) ================= -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Tech Pixel Banner" />
+  <img src="banner.png" width="100%" height="260px" alt="Tech Banner" />
 </p>
+
 
 <h1 align="center">👾 Ayush Yadav 👾</h1>
 
@@ -19,7 +20,7 @@
 
 ---
 
-## 🧑‍🚀 Player Profile
+## 🧑‍🚀 About Me
 
 - 🧠 **Name:** Ayush Yadav  
 - 🎓 **Degree:** B.Tech (3rd Year)  
