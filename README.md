@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=DSA%20Commit%20Activity&logo=java" />
 </p>
 
-✔ Updates automatically as you push more DSA problems.
+
 
 ---
 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Full-stack-Web-development?style=for-the-badge&label=Full%20Stack%20Commits&logo=github" />
 </p>
 
-✔ Tracks real development activity.
+
 
 ---
 
@@ -60,7 +60,7 @@
   <img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true" />
 </p>
 
-✔ Shows your daily coding streak automatically.
+
 
 
 ---
