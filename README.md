@@ -1,7 +1,6 @@
 <!-- ================= PIXEL BANNER (NO NAME) ================= -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="banner.png" width="100%" alt="Tech Pixel Banner" />
 </p>
 
 <h1 align="center">👾 Ayush Yadav 👾</h1>
@@ -57,66 +56,14 @@
 ## 🔥 Daily Consistency Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true" />
 </p>
 
 ✔ Shows your daily coding streak automatically.
 
----
-
-## 🧠 Skill Progress
-
-### 🌐 Web Development
-```
-
-HTML ██████████
-CSS ██████████
-Flexbox ██████████
-Grid ██████████
-Bootstrap █████████
-JavaScript █████████
-DOM █████████
-
-```
-
-### 🧠 DSA (Java)
-```
-
-Basics ██████████
-Operators ██████████
-Conditional Logic █████████
-Loops █████████
-Functions ████████
-Patterns ████████
-```
-
-📝 Progress based on hands-on practice and continuous learning
-
 
 ---
 
-## 🚀 Skill Tree
-
-### ✅ Unlocked
-- HTML, CSS
-- Flexbox, Grid
-- JavaScript
-- DOM Manipulation
-- Bootstrap
-- Java Basics
-- Git & GitHub
-
-### 🔒 Unlocking Next
-- React.js
-- Tailwind CSS
-- Node.js
-- Express.js
-- SQL
-- PostgreSQL
-- REST APIs
-- DApps & Web3
-
----
 
 ## 🛠️ Tech Arsenal
 
