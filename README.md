@@ -47,7 +47,11 @@
 ## 🌐 Full Stack Development Progress (Auto-Updating)
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Full-stack-Web-development?style=for-the-badge&label=Full%20Stack%20Commits&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Full-stack-Web-development?style=for-the-badge&label=FULL%20STACK%20COMMIT%20ACTIVITY" />
 </p>
 
 
