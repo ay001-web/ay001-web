@@ -55,8 +55,9 @@
 ---
 
 ## 🔥 Daily Consistency Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ay001-web&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 ---
