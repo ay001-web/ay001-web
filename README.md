@@ -1,4 +1,3 @@
-<!-- =================== PIXEL BANNER =================== -->
 <p align="center">
   <img src="https://github.com/ay001-web/ay001-web/blob/main/assets/Coding.gif?raw=true" height="260" />
 </p>
