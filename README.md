@@ -55,10 +55,7 @@
 ---
 
 ## 🔥 Daily Consistency Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ay001-web&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true)
 
 ---
 
