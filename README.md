@@ -1,6 +1,6 @@
 <!-- ================= PIXEL BANNER (NO NAME) ================= -->
 <p align="center">
-  <img src="assets/coding.gif" alt="Coding GIF" height="260"/>
+  <img src="coding.gif" alt="Coding GIF" height="260"/>
 </p>
 
 
