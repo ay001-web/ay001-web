@@ -55,10 +55,8 @@
 ---
 
 ## 🔥 Daily Consistency Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight)
 
 
 ---
