@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/ay001-web/ay001-web/blob/main/assets/Coding.gif?raw=true" height="260" /> </p>
 
-<h1 align="center">👾 Ayush Yadav 👾</h1>
+<h1 align="center">🧑‍💻 Ayush Yadav</h1>
 
 <h3 align="center">
   3rd Year B.Tech Student | Data Science | Full Stack Developer in Progress
