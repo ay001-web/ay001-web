@@ -1,6 +1,6 @@
-<!-- ================= PIXEL BANNER (NO NAME) ================= -->
+<!-- =================== PIXEL BANNER =================== -->
 <p align="center">
-  <img src="assets/Coding.gif" alt="Coding GIF" height="260"/>
+  <img src="https://raw.githubusercontent.com/ay001-web/<repo-name>/main/assets/Coding.gif" height="260" />
 </p>
 
 
