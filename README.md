@@ -56,12 +56,7 @@
 
 ## 🔥 Daily Consistency Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://github-readme-stats-eta-lyart-98.vercel.app/api/streak?user=ay001-web&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -92,9 +87,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats-eta-lyart-98.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
