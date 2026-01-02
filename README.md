@@ -27,7 +27,15 @@
 ---
 
 ## 🧠 DSA Progress (Auto-Updating)
-<img src="https://img.shields.io/github/commits-since/ay001-web/Data-Structures-And-Algorithm/HEAD?style=for-the-badge&label=TOTAL%20COMMITS" />
+## 🧠 DSA Progress (Auto-Updating)
+
+<p align="center">
+  <img src="https://github-readme-stats-eta-lyart-98.vercel.app/api/pin/?username=ay001-web&repo=Data-Structures-And-Algorithm&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=DSA%20LAST%20COMMIT&logo=java" />
+</p>
 
 
 ---
