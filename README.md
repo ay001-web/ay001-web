@@ -29,11 +29,7 @@
 ## 🧠 DSA Progress (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Data-Structures-And-Algorithm&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=DSA%20Commit%20Activity&logo=java" />
+  <img src="https://img.shields.io/github/last-commit/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=DSA%20Last%20Commit&logo=java" />
 </p>
 
 
@@ -43,21 +39,19 @@
 ## 🌐 Full Stack Development Progress (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/ay001-web/Full-stack-Web-development?style=for-the-badge&label=FULL%20STACK%20COMMIT%20ACTIVITY" />
+  <img src="https://img.shields.io/github/last-commit/ay001-web/Full-stack-Web-development?style=for-the-badge&label=FULL%20STACK%20LAST%20COMMIT&logo=github" />
 </p>
-
-
 
 ---
 
 ## 🔥 Daily Consistency Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true&mode=daily" />
 </p>
 
 ---
