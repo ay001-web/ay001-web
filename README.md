@@ -39,12 +39,11 @@
 ## 🌐 Full Stack Development Progress (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/last-commit/ay001-web/Full-stack-Web-development?style=for-the-badge&label=FULL%20STACK%20LAST%20COMMIT&logo=github" />
 </p>
+
+🚀 Actively building and maintaining full-stack projects with consistent commits.
+
 
 ---
 
