@@ -28,18 +28,16 @@
 
 ## 🧠 DSA Progress (Auto-Updating)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Data-Structures-And-Algorithm&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eta-lyart-98.vercel.app/api/pin/?username=ay001-web&repo=Data-Structures-And-Algorithm&theme=tokyonight" />
 </p>
-
 
 
 ---
 
 ## 🌐 Full Stack Development Progress (Auto-Updating)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eta-lyart-98.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight" />
 </p>
-
 
 ---
 
