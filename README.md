@@ -27,9 +27,8 @@
 ---
 
 ## 🧠 DSA Progress (Auto-Updating)
-
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=DSA%20Last%20Commit&logo=java" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Data-Structures-And-Algorithm&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 
@@ -37,12 +36,9 @@
 ---
 
 ## 🌐 Full Stack Development Progress (Auto-Updating)
-
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/ay001-web/Full-stack-Web-development?style=for-the-badge&label=FULL%20STACK%20LAST%20COMMIT&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ay001-web&repo=Full-stack-Web-development&theme=tokyonight&cache_seconds=1800" />
 </p>
-
-🚀 Actively building and maintaining full-stack projects with consistent commits.
 
 
 ---
