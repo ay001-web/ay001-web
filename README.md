@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/t/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=TOTAL%20COMMITS&logo=java" />
-  <img src="https://img.shields.io/github/last-commit/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=LAST%20COMMIT&logo=java" />
+  <img src="https://img.shields.io/github/commit-activity/t/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=TOTAL%20COMMITS&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/ay001-web/Data-Structures-And-Algorithm?style=for-the-badge&label=LAST%20COMMIT&logo=github&logoColor=white" />
 </p>
 
 
