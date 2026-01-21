@@ -38,7 +38,6 @@
 </p>
 
 
-
 ---
 
 ## 🌐 Full Stack Development Progress (Auto-Updating)
