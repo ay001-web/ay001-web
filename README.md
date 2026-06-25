@@ -3,14 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Yadav&fontSize=58&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Full%20Stack%20Developer%20in%20Progress&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
 
 <a href="https://github.com/ay001-web">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+B.Tech+%7C+Data+Science;Building+Real-Time+Collaborative+Tools;Strong+Fundamentals+%2B+Full-Stack+Skills;Currently+Building+%E2%9A%A1+DevRoom" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+B.Tech+%7C+Data+Science;Live%3A+DevRoom+%E2%80%94+Real-Time+Code+Editor;Strong+Fundamentals+%2B+Full-Stack+Skills;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ay001-web&label=Profile%20Views&color=a371f7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/ay001-web?label=Followers&style=for-the-badge&color=22c55e" />
-<img src="https://img.shields.io/badge/Institute-SRM%20IST-blue?style=for-the-badge&color=3b82f6" />
 
 </div>
 
@@ -22,7 +16,7 @@
 - 🏛️ Studying at **SRM Institute of Science and Technology**
 - 📊 Core strengths: **Data Analysis, Machine Learning & Data Visualization**
 - 🌐 Actively building toward becoming a **strong Full-Stack Developer with a solid DSA foundation**
-- 🛰️ Currently building **[DevRoom](https://github.com/ay001-web/DevRoom)** — a real-time collaborative code editor
+- 🚀 Shipped **[DevRoom](https://github.com/ay001-web/DevRoom)** — a real-time collaborative code editor, live in production
 - 🧠 Philosophy: *Learning like a game — level by level. Strong fundamentals beat shortcuts.*
 
 <br/>
@@ -34,12 +28,13 @@
 <td width="100%">
 
 ### ⚡ [DevRoom — Real-Time Collaborative Code Editor](https://github.com/ay001-web/DevRoom)
+<img src="https://img.shields.io/badge/STATUS-LIVE-22c55e?style=flat-square"/>
 
 A full-stack MERN application that lets multiple developers write, run, and debug code together inside the same room — live cursors, in-room chat, and instant multi-language code execution, all synced in real time over WebSockets.
 
 `React` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT Auth` `Judge0 API`
 
-🔗 **Live:** [dev-room-drab.vercel.app](https://dev-room-drab.vercel.app) &nbsp;|&nbsp; ⭐ [Star this repo](https://github.com/ay001-web/DevRoom)
+🔗 **Live Demo:** [dev-room-drab.vercel.app](https://dev-room-drab.vercel.app) &nbsp;|&nbsp; 💻 **Source:** [github.com/ay001-web/DevRoom](https://github.com/ay001-web/DevRoom)
 
 </td>
 </tr>
@@ -73,15 +68,15 @@ A full-stack MERN application that lets multiple developers write, run, and debu
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ay001-web&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ay001-web&theme=onedark&no-frame=true&no-bg=false&row=1&column=4&margin-w=12&margin-h=12" width="100%"/>
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🧩 LeetCode Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ay001-web/ay001-web/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/0027_ayush?theme=dark&font=baloo&ext=heatmap" width="100%"/>
 </div>
 
 <br/>
@@ -90,21 +85,9 @@ A full-stack MERN application that lets multiple developers write, run, and debu
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,react,tailwind,vite" />
-
-**Backend & Databases** *(learning)*
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<marquee behavior="scroll" direction="left" scrollamount="5">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,bootstrap,jquery,react,tailwind,vite,nodejs,express,mongodb,firebase,git,github,vscode,figma" height="55"/>
+</marquee>
 
 </div>
 
@@ -126,6 +109,9 @@ A full-stack MERN application that lets multiple developers write, run, and debu
 </a>
 <a href="https://linkedin.com/in/ayushyadav--">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/0027_ayush">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="mailto:ayushyadav2250@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
