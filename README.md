@@ -16,7 +16,7 @@
 <tr>
 <td width="55%">
 
-```yaml
+```yaml id="5k4h7v"
 Name: Ayush Yadav
 Role: Full Stack Developer
 Education: B.Tech CSE (Data Science)
@@ -52,7 +52,7 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=DEVROOM&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=DEVROOM&fontSize=52&fontColor=ffffff"/>
 
 ### Real-Time Collaborative Code Editor
 
@@ -81,10 +81,14 @@ A production-grade collaborative platform where multiple developers can write, e
 
 ### Stack Used
 
-React • Node.js • Express
-MongoDB • Socket.IO
-JWT • Judge0 API
-Vercel • Render
+React
+Node.js
+Express
+MongoDB
+Socket.IO
+JWT
+Judge0 API
+Vercel + Render
 
 </td>
 </tr>
@@ -108,31 +112,27 @@ Vercel • Render
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
-</td>
-</tr>
+### 🧪 Languages
 
-<tr>
-<td align="center"><b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
-</td>
-</tr>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
 
-<tr>
-<td align="center"><b>Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td align="center"><b>Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</td>
-</tr>
-</table>
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,react,tailwind,vite" />
+
+<br><br>
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </div>
 
