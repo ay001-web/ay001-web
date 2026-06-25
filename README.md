@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Ayush%20Yadav&fontAlign=50&fontAlignY=40&desc=Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Student%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A970FF&center=true&vCenter=true&width=900&lines=Always+Learning%2C+Always+Building;Turning+Ideas+Into+Real+Products;Strong+Fundamentals+Beat+Shortcuts;Building+Projects+That+Actually+Matter"/>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=ay001-web&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/ay001-web?style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/stars/ay001-web?style=for-the-badge&color=purple"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=B026FF&center=true&vCenter=true&width=900&lines=Always+Learning%2C+Always+Building;Turning+Ideas+Into+Real+Products;Strong+Fundamentals+Beat+Shortcuts;Code.+Build.+Improve.+Repeat."/>
 
 </div>
 
@@ -16,84 +10,88 @@
 
 # About Me
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ```yaml
 Name: Ayush Yadav
-Education: B.Tech CSE (Data Science)
-College: SRM Institute of Science and Technology
-Current Focus: Full Stack Development + DSA + Java
-Goal: Software Engineer at top product company
+Degree: B.Tech CSE (Data Science)
+College: SRM Institute of Science & Technology
+Focus: Full Stack + Java + DSA
+Goal: Software Engineer @ Product Company
 ```
 
-### Who am I?
-- Final year engineering student passionate about building real-world software  
-- Strong interest in **Full Stack Development**, **Scalable Systems**, and **Problem Solving**
-- Love turning ideas into production-ready products
-- Currently sharpening **Java + DSA + System Design**
-- Building daily with consistency and discipline
+### I am someone who:
+✨ Loves building real-world products  
+⚡ Learns by shipping projects  
+🚀 Believes consistency beats motivation  
+🧠 Focuses on strong fundamentals  
+💻 Enjoys solving engineering problems  
 
 ---
+
+<div align="center">
 
 # Featured Project
 
-<div align="center">
-
-# DevRoom  
-### Real-Time Collaborative Code Editor
-
 </div>
-
-A production-ready collaborative platform where multiple developers can **write, execute, debug, and discuss code together in real time**.
-
----
-
-## Key Features
-
-- Real-time collaborative coding  
-- Multi-user live cursor sync  
-- Room-based collaboration  
-- Public / Private Rooms  
-- Live chat inside rooms  
-- Instant code execution  
-- Google OAuth login  
-- Secure JWT authentication  
-- Beautiful responsive UI  
-- Monaco Editor (VS Code-like experience)
-
----
-
-## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=6,12,20,30&text=DevRoom%20%E2%80%94%20Real-Time%20Collaborative%20Code%20Editor&fontSize=34&fontColor=ffffff"/>
 
 </div>
 
-### Backend & APIs
-- Socket.io
-- JWT
-- Google OAuth
-- Judge0 API
-- REST APIs
+<table>
+<tr>
+<td width="55%">
 
-### Deployment
-- Frontend → Vercel  
-- Backend → Render  
-- Database → MongoDB Atlas  
+## DevRoom
+
+Production-ready collaborative coding platform where developers can:
+
+✅ Write code together in real time  
+✅ Chat inside rooms  
+✅ Execute code instantly  
+✅ Create public/private rooms  
+✅ Collaborate with live sync  
+
+</td>
+
+<td width="45%">
+
+```diff
++ Real-time Collaboration
++ Live Cursor Sync
++ Monaco Editor
++ Judge0 Execution
++ Google OAuth
++ JWT Auth
++ Socket.io
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Live Demo
+## Live Project
 
-### Production
-🚀 https://dev-room-drab.vercel.app
+<div align="center">
 
-### Source Code
-💻 https://github.com/ay001-web/DevRoom
+<a href="https://dev-room-drab.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-DevRoom-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ay001-web/DevRoom">
+<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-# Tech Arsenal
+# Tech Stack
 
 <div align="center">
 
@@ -107,29 +105,19 @@ A production-ready collaborative platform where multiple developers can **write,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay001-web&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ay001-web&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay001-web&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-# Activity Graph
+# Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -137,21 +125,29 @@ A production-ready collaborative platform where multiple developers can **write,
 
 # Current Mission
 
-```text
-Building production-grade projects
-Mastering Data Structures & Algorithms
-Becoming placement-ready
-Improving backend architecture understanding
-Learning scalable system design
-```
+<div align="center">
+
+| Focus Area | Status |
+|---|---|
+| DSA | Improving |
+| Java | Strong |
+| MERN | Building |
+| System Design | Learning |
+| Placements | Locked In |
+
+</div>
 
 ---
 
 # Philosophy
 
-> Learning is like a game — level by level.  
-> Strong fundamentals beat shortcuts.  
-> Consistency compounds.
+<div align="center">
+
+> 🎮 Learning is like a game — level by level  
+> 🧩 Strong fundamentals beat shortcuts  
+> 📈 Small progress daily creates huge growth  
+
+</div>
 
 ---
 
@@ -160,15 +156,19 @@ Learning scalable system design
 <div align="center">
 
 <a href="https://github.com/ay001-web">
-<img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/ayushyadav--">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ayushyadav2250@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/0027_ayush/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
@@ -177,10 +177,10 @@ Learning scalable system design
 
 <div align="center">
 
-## Thanks for visiting
+## Thanks for Visiting
 
 ### Let's build something impactful together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
