@@ -8,24 +8,39 @@
 
 ---
 
+<div align="center">
+
 # About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 Name: Ayush Yadav
-Degree: B.Tech CSE (Data Science)
+Role: Full Stack Developer
+Education: B.Tech CSE (Data Science)
 College: SRM Institute of Science & Technology
-Focus: Full Stack + Java + DSA
-Goal: Software Engineer @ Product Company
+Focus: Java | MERN | DSA
+Goal: Software Engineer @ Top Product Company
 ```
 
-### I am someone who:
-✨ Loves building real-world products  
-⚡ Learns by shipping projects  
-🚀 Believes consistency beats motivation  
-🧠 Focuses on strong fundamentals  
-💻 Enjoys solving engineering problems  
+### What drives me?
+✨ Building real-world products  
+⚡ Solving engineering problems  
+🚀 Shipping projects consistently  
+🧠 Strong fundamentals over shortcuts  
+📈 Daily growth mindset  
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,65 +48,75 @@ Goal: Software Engineer @ Product Company
 
 # Featured Project
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DEVROOM&fontSize=60&fontColor=ffffff&animation=twinkling&color=gradient"/>
+
+### Real-Time Collaborative Code Editor
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-FULLSTACK-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEBSOCKET-REALTIME-blue?style=for-the-badge"/>
+
 </div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&customColorList=6,12,20,30&text=DevRoom%20%E2%80%94%20Real-Time%20Collaborative%20Code%20Editor&fontSize=34&fontColor=ffffff"/>
-
-</div>
-
-<table>
-<tr>
-<td width="55%">
-
-## DevRoom
-
-Production-ready collaborative coding platform where developers can:
-
-✅ Write code together in real time  
-✅ Chat inside rooms  
-✅ Execute code instantly  
-✅ Create public/private rooms  
-✅ Collaborate with live sync  
-
-</td>
-
-<td width="45%">
-
-```diff
-+ Real-time Collaboration
-+ Live Cursor Sync
-+ Monaco Editor
-+ Judge0 Execution
-+ Google OAuth
-+ JWT Auth
-+ Socket.io
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
-## Live Project
+DevRoom is a **production-ready collaborative coding platform** where developers can **write, run, debug, and discuss code together in real time**.
+
+## Features
+
+🟣 Real-time collaboration  
+🔵 Multi-user live cursor sync  
+🟣 Monaco editor (VS Code experience)  
+🔵 Judge0 code execution  
+🟣 Google OAuth authentication  
+🔵 JWT Authentication  
+🟣 Live room chat  
+🔵 Public / Private rooms  
+🟣 Beautiful responsive UI  
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode"/>
+
+</div>
+
+### Backend & APIs
+- Socket.io  
+- JWT Authentication  
+- Google OAuth  
+- Judge0 API  
+- REST APIs  
+
+### Deployment
+- Frontend → Vercel  
+- Backend → Render  
+- Database → MongoDB Atlas  
+
+---
+
+# Live Project
 
 <div align="center">
 
 <a href="https://dev-room-drab.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-DevRoom-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live Demo-Visit DevRoom-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/ay001-web/DevRoom">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source Code-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# Tech Stack
+# Tech Arsenal
 
 <div align="center">
 
@@ -113,7 +138,17 @@ Production-ready collaborative coding platform where developers can:
 
 ---
 
-# Contribution Graph
+# Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ay001-web&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# Activity Graph
 
 <div align="center">
 
@@ -125,17 +160,22 @@ Production-ready collaborative coding platform where developers can:
 
 # Current Mission
 
-<div align="center">
+```text
+Java          █████████░ 90%
+DSA           ███████░░░ 75%
+MERN          ████████░░ 80%
+System Design ████░░░░░░ 40%
+Placements    ███████░░░ 75%
+```
 
-| Focus Area | Status |
-|---|---|
-| DSA | Improving |
-| Java | Strong |
-| MERN | Building |
-| System Design | Learning |
-| Placements | Locked In |
+---
 
-</div>
+# Achievements
+
+🏆 Built and deployed a full-stack production application  
+🚀 DevRoom live on Vercel + Render  
+💻 Consistently improving DSA skills  
+🔥 Daily learning and shipping projects  
 
 ---
 
@@ -145,7 +185,7 @@ Production-ready collaborative coding platform where developers can:
 
 > 🎮 Learning is like a game — level by level  
 > 🧩 Strong fundamentals beat shortcuts  
-> 📈 Small progress daily creates huge growth  
+> 📈 Consistency compounds into excellence  
 
 </div>
 
@@ -177,9 +217,7 @@ Production-ready collaborative coding platform where developers can:
 
 <div align="center">
 
-## Thanks for Visiting
-
-### Let's build something impactful together
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+great+together"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
