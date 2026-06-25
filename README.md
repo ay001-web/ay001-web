@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,30:6d28d9,70:2563eb,100:06b6d4&text=Ayush%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,35:7c3aed,70:2563eb,100:06b6d4&text=Ayush%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+products+that+solve+real+problems;Learning+like+a+game+—+level+by+level;Strong+fundamentals+beat+shortcuts"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+products+that+solve+real+problems;Learning+like+a+game+—+level+by+level;Strong+fundamentals+beat+shortcuts"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
@@ -23,13 +25,13 @@ Focus: Java | MERN | DSA
 Goal: Software Engineer @ Top Product Company
 ```
 
-### I am someone who:
+### What drives me?
 
-✨ Loves building real-world products
-⚡ Learns by shipping projects
-🚀 Believes consistency beats motivation
-🧠 Focuses on strong fundamentals
-💻 Enjoys solving engineering problems
+✨ Building real-world products
+⚡ Solving engineering problems
+🚀 Shipping projects consistently
+🧠 Strong fundamentals over shortcuts
+📈 Daily growth mindset
 
 > Full Stack Developer building production-grade applications
 > with strong DSA and Java foundations.
@@ -38,9 +40,7 @@ Goal: Software Engineer @ Top Product Company
 
 <td width="45%">
 <div align="center">
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="95%"/>
-
 </div>
 </td>
 </tr>
@@ -52,9 +52,11 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=DEVROOM&fontSize=52&fontColor=fff&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=DEVROOM&fontSize=50&fontColor=ffffff"/>
 
 ### Real-Time Collaborative Code Editor
+
+A production-grade collaborative platform where multiple developers can write, execute and debug code together in real time.
 
 </div>
 
@@ -62,28 +64,27 @@ Goal: Software Engineer @ Top Product Company
 <tr>
 <td width="50%">
 
-### Features
+### Core Features
 
-✅ Real-time collaborative coding
-✅ Multi-language code execution
-✅ Monaco editor integration
-✅ Room-based architecture
+✅ Real-time code sync
+✅ Monaco editor
+✅ Multi-language execution
+✅ Live chat
+✅ Room management
 ✅ JWT authentication
-✅ Live chat system
-✅ Google OAuth login
-✅ Socket-based sync
+✅ Google OAuth
+✅ Socket.IO collaboration
 
 </td>
 
 <td width="50%">
 
-### Tech Stack
+### Stack Used
 
-![React](https://img.shields.io/badge/React-06141B?style=for-the-badge\&logo=react)
-![Node](https://img.shields.io/badge/Node.js-06141B?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-06141B?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-06141B?style=for-the-badge\&logo=mongodb)
-![Socket.io](https://img.shields.io/badge/Socket.io-06141B?style=for-the-badge\&logo=socket.io)
+React • Node.js • Express
+MongoDB • Socket.IO
+JWT • Judge0 API
+Vercel • Render
 
 </td>
 </tr>
@@ -91,9 +92,13 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-8B5CF6?style=for-the-badge\&logo=vercel)](https://dev-room-drab.vercel.app)
+<a href="https://dev-room-drab.vercel.app">
+<img src="https://img.shields.io/badge/LIVE_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[![Source Code](https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge\&logo=github)](https://github.com/ay001-web/DevRoom)
+<a href="https://github.com/ay001-web/DevRoom">
+<img src="https://img.shields.io/badge/SOURCE_CODE-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -103,21 +108,31 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-### Languages
-
+<table>
+<tr>
+<td align="center"><b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
+</td>
+</tr>
 
-### Frontend
-
+<tr>
+<td align="center"><b>Frontend</b><br><br>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
+</td>
+</tr>
 
-### Backend
-
+<tr>
+<td align="center"><b>Backend</b><br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</td>
+</tr>
 
-### Tools
-
+<tr>
+<td align="center"><b>Tools</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -127,11 +142,13 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=tokyo-night&hide_border=true"/>
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -157,9 +174,9 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-> ### 🎮 Learning like a game — level by level.
->
-> ### 🧩 Strong fundamentals beat shortcuts.
+### 🎮 Learning like a game — level by level
+
+### 🧩 Strong fundamentals beat shortcuts
 
 </div>
 
@@ -169,13 +186,21 @@ Goal: Software Engineer @ Top Product Company
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github)](https://github.com/ay001-web)
+<a href="https://github.com/ay001-web">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ayushyadav--)
+<a href="https://www.linkedin.com/in/ayushyadav--">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/0027_ayush)
+<a href="https://leetcode.com/u/0027_ayush">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushyadav2250@gmail.com)
+<a href="mailto:ayushyadav2250@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -185,6 +210,6 @@ Goal: Software Engineer @ Top Product Company
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:db2777"/>
 
-### Thanks for stopping by — let’s build something great together 🚀
+### Thanks for stopping by — let's build something great together 🚀
 
 </div>
