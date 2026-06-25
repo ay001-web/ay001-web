@@ -1,22 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Ayush%20Yadav&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Student%20•%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,30:6d28d9,70:2563eb,100:06b6d4&text=Ayush%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=B026FF&center=true&vCenter=true&width=900&lines=Always+Learning%2C+Always+Building;Turning+Ideas+Into+Real+Products;Strong+Fundamentals+Beat+Shortcuts;Code.+Build.+Improve.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+products+that+solve+real+problems;Learning+like+a+game+—+level+by+level;Strong+fundamentals+beat+shortcuts"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# About Me
-
-</div>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```yaml
 Name: Ayush Yadav
@@ -27,189 +23,159 @@ Focus: Java | MERN | DSA
 Goal: Software Engineer @ Top Product Company
 ```
 
-### What drives me?
-✨ Building real-world products  
-⚡ Solving engineering problems  
-🚀 Shipping projects consistently  
-🧠 Strong fundamentals over shortcuts  
-📈 Daily growth mindset  
+### I am someone who:
+
+✨ Loves building real-world products
+⚡ Learns by shipping projects
+🚀 Believes consistency beats motivation
+🧠 Focuses on strong fundamentals
+💻 Enjoys solving engineering problems
+
+> Full Stack Developer building production-grade applications
+> with strong DSA and Java foundations.
 
 </td>
 
-<td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+<td width="45%">
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="95%"/>
+
+</div>
 </td>
 </tr>
 </table>
 
 ---
 
+# 🚀 Featured Project
+
 <div align="center">
 
-# Featured Project
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DEVROOM&fontSize=60&fontColor=ffffff&animation=twinkling&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=DEVROOM&fontSize=52&fontColor=fff&animation=blinking"/>
 
 ### Real-Time Collaborative Code Editor
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MERN-FULLSTACK-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBSOCKET-REALTIME-blue?style=for-the-badge"/>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### Features
+
+✅ Real-time collaborative coding
+✅ Multi-language code execution
+✅ Monaco editor integration
+✅ Room-based architecture
+✅ JWT authentication
+✅ Live chat system
+✅ Google OAuth login
+✅ Socket-based sync
+
+</td>
+
+<td width="50%">
+
+### Tech Stack
+
+![React](https://img.shields.io/badge/React-06141B?style=for-the-badge\&logo=react)
+![Node](https://img.shields.io/badge/Node.js-06141B?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-06141B?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-06141B?style=for-the-badge\&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/Socket.io-06141B?style=for-the-badge\&logo=socket.io)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-8B5CF6?style=for-the-badge\&logo=vercel)](https://dev-room-drab.vercel.app)
+
+[![Source Code](https://img.shields.io/badge/SOURCE-CODE-2563EB?style=for-the-badge\&logo=github)](https://github.com/ay001-web/DevRoom)
 
 </div>
 
 ---
 
-DevRoom is a **production-ready collaborative coding platform** where developers can **write, run, debug, and discuss code together in real time**.
-
-## Features
-
-🟣 Real-time collaboration  
-🔵 Multi-user live cursor sync  
-🟣 Monaco editor (VS Code experience)  
-🔵 Judge0 code execution  
-🟣 Google OAuth authentication  
-🔵 JWT Authentication  
-🟣 Live room chat  
-🔵 Public / Private rooms  
-🟣 Beautiful responsive UI  
-
----
-
-## Tech Stack
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode"/>
+### Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
 
-### Backend & APIs
-- Socket.io  
-- JWT Authentication  
-- Google OAuth  
-- Judge0 API  
-- REST APIs  
+### Frontend
 
-### Deployment
-- Frontend → Vercel  
-- Backend → Render  
-- Database → MongoDB Atlas  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
 
----
+### Backend
 
-# Live Project
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
-<div align="center">
+### Tools
 
-<a href="https://dev-room-drab.vercel.app">
-<img src="https://img.shields.io/badge/Live Demo-Visit DevRoom-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/ay001-web/DevRoom">
-<img src="https://img.shields.io/badge/Source Code-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
 </div>
 
 ---
 
-# Tech Arsenal
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,bootstrap,react,tailwind,vite,nodejs,express,mongodb,firebase,git,github,vscode,figma"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ay001-web&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Analytics
+# 🎯 Current Mission
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ay001-web&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ay001-web&layout=compact&theme=midnight-purple&hide_border=true"/>
+| Mission            | Status              |
+| ------------------ | ------------------- |
+| Java Mastery       | 🟣 90%              |
+| DSA for Placements | 🔥 Grinding Daily   |
+| MERN Development   | 🚀 Production Ready |
+| System Design      | 📚 Learning         |
+| Placements 2026    | ⚔️ Locked In        |
 
 </div>
 
 ---
 
-# Contribution Streak
+# 🧠 Philosophy
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ay001-web&theme=midnight-purple&hide_border=true"/>
+> ### 🎮 Learning like a game — level by level.
+>
+> ### 🧩 Strong fundamentals beat shortcuts.
 
 </div>
 
 ---
 
-# Activity Graph
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ay001-web&theme=react-dark&hide_border=true&area=true"/>
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge\&logo=github)](https://github.com/ay001-web)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ayushyadav--)
 
----
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/0027_ayush)
 
-# Current Mission
-
-```text
-Java          █████████░ 90%
-DSA           ███████░░░ 75%
-MERN          ████████░░ 80%
-System Design ████░░░░░░ 40%
-Placements    ███████░░░ 75%
-```
-
----
-
-# Achievements
-
-🏆 Built and deployed a full-stack production application  
-🚀 DevRoom live on Vercel + Render  
-💻 Consistently improving DSA skills  
-🔥 Daily learning and shipping projects  
-
----
-
-# Philosophy
-
-<div align="center">
-
-> 🎮 Learning is like a game — level by level  
-> 🧩 Strong fundamentals beat shortcuts  
-> 📈 Consistency compounds into excellence  
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ay001-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/ayushyadav--">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:ayushyadav2250@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/0027_ayush/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ayushyadav2250@gmail.com)
 
 </div>
 
@@ -217,8 +183,8 @@ Placements    ███████░░░ 75%
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Let's+build+something+great+together"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:db2777"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+### Thanks for stopping by — let’s build something great together 🚀
 
 </div>
